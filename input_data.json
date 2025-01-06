@@ -1,0 +1,15 @@
+{
+  "data": {
+    "freight_value": 5.1,
+    "payment_type_debit_card": 1,
+    "purchased_approved": 1,
+    "payment_type_credit_card": 0,
+    "purchased_delivered": 1,
+    "delivered_estimated": 1,
+    "product_weight_g": 0.2,
+    "price": 100.0,
+    "Monetary": 200.0,
+    "payment_installments": 3
+  },
+  "prediction": 0.75
+}
